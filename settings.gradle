@@ -1,0 +1,4 @@
+rootProject.name = 'eurekaSample'
+include 'eurekaserver'
+include 'eurekaclient'
+
